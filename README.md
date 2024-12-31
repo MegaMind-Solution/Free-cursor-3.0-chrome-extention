@@ -28,6 +28,29 @@
 **Version** 3.0 traay | **Updated**  Dec 30, 2024 | **Size**   5.8MiB  | **Languages**  en-US
 
 **Sceenshots**
+**Screenshot00**
+![screenshot00](https://github.com/user-attachments/assets/45fc7bea-53ab-430f-9425-946c8496e73e)
+
+**Screenshot01**
+![Screenshot01](https://github.com/user-attachments/assets/26fb973b-c374-46a1-9f63-1618644124d6)
+
+**Screenshot02**
+![Screenshot02](https://github.com/user-attachments/assets/98ffefbb-98b5-45e2-a019-037933c41e8e)
+
+**Screenshot03**
+![Screenshot03](https://github.com/user-attachments/assets/ec4a2a53-acdb-497b-83cd-873139e75b42)
+
+**Screenshot04**
+![Screenshot04](https://github.com/user-attachments/assets/126e4415-09d8-436d-85f3-2d88f648c11c)
+
+**Screenshot05**
+![screenshot05](https://github.com/user-attachments/assets/4af27479-1201-426c-96ce-7686b0f3ac3a)
+
+**Screenshot06**
+![screenshot06](https://github.com/user-attachments/assets/9f734a13-3e5f-4eff-981e-f6c1724c1139)
+
+**Screenshot07**
+![screenshot07](https://github.com/user-attachments/assets/69997fa3-62a7-4321-89a8-af9e22e6cea8)
 
 
   > [!NOTE]
