@@ -21,12 +21,14 @@
 
   ### If you can't find what you're looking for, use the "UPLOAD CURSOR" button to add your own. Manage your personal arrow collection on the Upload page and adjust cursor size in the "Manage" section.
   
-  ### Create your own collection of mouse cursors from any images with Custom Cursor Creator tool on our website. It will allow you to create new packs from almost any arrow or pointer shaped image on the internet.
+  ### Create your own collection of mouse cursors from any images with Custom Cursor Creator tool on custome cursor website. It will allow you to create new packs from almost any arrow or pointer shaped image on the internet.
 
-#Details
+# Details
+
 **Version** 3.0 traay | **Updated**  Dec 30, 2024 | **Size**   5.8MiB  | **Languages**  en-US
 
 **Sceenshots**
+
 
   > [!NOTE]
 > This Api or Extension is currently not available on chrome web store].In future we try to take our products on chrome web store.
